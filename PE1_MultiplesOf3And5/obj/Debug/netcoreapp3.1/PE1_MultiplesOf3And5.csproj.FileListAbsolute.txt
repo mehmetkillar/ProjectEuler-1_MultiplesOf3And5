@@ -1,0 +1,13 @@
+C:\Users\Mehmet\source\repos\ProjectEuler\ProjectEulerHackerRank\PE1_MultiplesOf3And5\bin\Debug\netcoreapp3.1\PE1_MultiplesOf3And5.exe
+C:\Users\Mehmet\source\repos\ProjectEuler\ProjectEulerHackerRank\PE1_MultiplesOf3And5\bin\Debug\netcoreapp3.1\PE1_MultiplesOf3And5.deps.json
+C:\Users\Mehmet\source\repos\ProjectEuler\ProjectEulerHackerRank\PE1_MultiplesOf3And5\bin\Debug\netcoreapp3.1\PE1_MultiplesOf3And5.runtimeconfig.json
+C:\Users\Mehmet\source\repos\ProjectEuler\ProjectEulerHackerRank\PE1_MultiplesOf3And5\bin\Debug\netcoreapp3.1\PE1_MultiplesOf3And5.runtimeconfig.dev.json
+C:\Users\Mehmet\source\repos\ProjectEuler\ProjectEulerHackerRank\PE1_MultiplesOf3And5\bin\Debug\netcoreapp3.1\PE1_MultiplesOf3And5.dll
+C:\Users\Mehmet\source\repos\ProjectEuler\ProjectEulerHackerRank\PE1_MultiplesOf3And5\bin\Debug\netcoreapp3.1\PE1_MultiplesOf3And5.pdb
+C:\Users\Mehmet\source\repos\ProjectEuler\ProjectEulerHackerRank\PE1_MultiplesOf3And5\obj\Debug\netcoreapp3.1\PE1_MultiplesOf3And5.csprojAssemblyReference.cache
+C:\Users\Mehmet\source\repos\ProjectEuler\ProjectEulerHackerRank\PE1_MultiplesOf3And5\obj\Debug\netcoreapp3.1\PE1_MultiplesOf3And5.AssemblyInfoInputs.cache
+C:\Users\Mehmet\source\repos\ProjectEuler\ProjectEulerHackerRank\PE1_MultiplesOf3And5\obj\Debug\netcoreapp3.1\PE1_MultiplesOf3And5.AssemblyInfo.cs
+C:\Users\Mehmet\source\repos\ProjectEuler\ProjectEulerHackerRank\PE1_MultiplesOf3And5\obj\Debug\netcoreapp3.1\PE1_MultiplesOf3And5.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet\source\repos\ProjectEuler\ProjectEulerHackerRank\PE1_MultiplesOf3And5\obj\Debug\netcoreapp3.1\PE1_MultiplesOf3And5.dll
+C:\Users\Mehmet\source\repos\ProjectEuler\ProjectEulerHackerRank\PE1_MultiplesOf3And5\obj\Debug\netcoreapp3.1\PE1_MultiplesOf3And5.pdb
+C:\Users\Mehmet\source\repos\ProjectEuler\ProjectEulerHackerRank\PE1_MultiplesOf3And5\obj\Debug\netcoreapp3.1\PE1_MultiplesOf3And5.genruntimeconfig.cache
